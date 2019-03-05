@@ -6,7 +6,19 @@
 	background: white;
 }
 
+p {
+	font-family: Impact, Charcoal, sans-serif
+}
+p {
+  font-size: 124px;
+}
+h1 {
+  font-size: 40px;
+}
 
+h2 {
+  font-size: 30px;
+}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -60,4 +72,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+body {
+  background-color: #A8D3F9;
 }
