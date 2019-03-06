@@ -7,17 +7,22 @@
 }
 
 p {
-	font-family: Impact, Charcoal, sans-serif
-}
-p {
-  font-size: 124px;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 124px;
+	text-align: center;
+
 }
 h1 {
-  font-size: 40px;
+	font-size: 30px;
+	text-decoration: underline;
+	text-align: center;
+
 }
 
 h2 {
-  font-size: 30px;
+	font-size: 30px;
+	text-align: center;
+
 }
 
 /* Add a black background color to the top navigation */
@@ -74,11 +79,8 @@ h2 {
   width: 50%;
 }
 	body {
-		font-family: Impact, Charcoal, sans-serif
-	}
-	body {
+		text-align: center;
+		font-family: Impact, Charcoal, sans-serif;
 		font-size: 24px;
+		background-color: #A8D3F9;
 	}
-	body{
-  background-color: #A8D3F9;
-}
