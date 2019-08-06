@@ -7,5 +7,3 @@ hope you enjoy ~
 
 link:
 https://itzikd1.github.io/HtmlSiteP1 
-
-Itzik daniely 204880314
